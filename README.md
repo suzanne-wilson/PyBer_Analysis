@@ -6,7 +6,7 @@
 
 # The purpose of this project is to analyze all the rideshare data from January to early May of 2019 and create a compelling visualization for the PyBer CEO.  We used the pandas Python library to prepare the data for analysis, and the matplotlib Python library to create the visualization. A summary dataframe, which presented several key measure summaries by city type was created.  To prepare for plotting the data, total fares per week by city type was calculated.  We found that total fares were consistently highest in urban cities, followed by suburban cities, and the lowest total weekly fares were found in rural cities (see Figure 1).
 
-![Figure 1](analysis\pyberChallenge.png)
+![Figure 1](analysis/pyberChallenge.png)
 ---------
 # A short summary of the results.
 # The second paragraph should include the following:
