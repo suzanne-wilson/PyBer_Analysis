@@ -1,10 +1,7 @@
 # PyBer_Analysis
-# Delivering Results
-# To deliver the results of your analysis, you will submit a written analysis created for your CEO, V. Isualize, in the form of a README.md file on your GitHub repository. In your README.md, you should have three paragraphs consisting of 4 to 5 sentences each.
-
-# The first paragraph should include the following:
-
-# The purpose of this project is to analyze all the rideshare data from January to early May of 2019 and create a compelling visualization for the PyBer CEO.  We used the pandas Python library to prepare the data for analysis, and the matplotlib Python library to create the visualization. A summary dataframe, which presented several key measure summaries by city type was created.  To prepare for plotting the data, total fares per week by city type was calculated.  We found that total fares were consistently highest in urban cities, followed by suburban cities, and the lowest total weekly fares were found in rural cities (see Figure 1).
+## Delivering Results
+# 
+#### The purpose of this project is to analyze all the rideshare data from January to early May of 2019 and create a compelling visualization for the PyBer CEO.  We used the pandas Python library to prepare the data for analysis, and the matplotlib Python library to create the visualization. A summary dataframe, which presented several key measure summaries by city type was created.  To prepare for plotting the data, total fares per week by city type was calculated.  We found that total fares were consistently highest in urban cities, followed by suburban cities, and the lowest total weekly fares were found in rural cities (see Figure 1).
 
 ![PyberChallenge.png](/analysis/PyberChallenge.png)
 ---------
